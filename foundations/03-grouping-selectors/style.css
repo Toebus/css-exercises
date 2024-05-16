@@ -1,0 +1,21 @@
+.no,
+.cli{
+    font-size: 28px;
+    font-family:  Helvetica,  "Times New Roman", sans-serif
+
+
+
+}
+
+
+.no{
+    background-color: rgb(236, 240, 6);
+   
+}
+
+
+.cli {
+    background-color: black;
+    color: antiquewhite;
+    font-weight: 700;
+}
